@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    margin:100px ; 
+}
+
+.bg-1 {
+    background-color: #3399CC;
+    width:  auto;
+    height: 75px;
+}
+
+.bg-2 {
+    background-color: #0099CC;
+    width:  auto;
+    height: 75px;
+}
+.bg-3{
+    background-color: #009999;
+    width: auto;
+    height: 75px;
+}
+.bg-4{
+    background-color: #c4cfcf;
+    width: auto;
+    height: 225px;
+}
+.card {
+    
+    
+    width: 20%;
+    float: left;
+    padding: 5%;
+    
+    border-radius: 1px;
+    
+}
+p {
+    text-align: center;
+
+}
